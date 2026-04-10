@@ -61,14 +61,7 @@
 <h2 style="font-family: Arial, sans-serif; color: #333; margin-top:30px;">
   📸 Screenshots
 </h2>
-
-<div style="display:flex; gap:15px; flex-wrap: wrap; margin-bottom:20px;">
-
-  <img src="https://github.com/user-attachments/assets/96708bb3-1732-4ead-b7ec-e33c06cad792"
-       width="250"
-       style="border:1px solid #ddd; border-radius:8px;" />
-
-  <img src="https://github.com/user-attachments/assets/1f1fd5a4-7dc4-403d-9897-08f64e757d22"
+ <img src="https://github.com/user-attachments/assets/1f1fd5a4-7dc4-403d-9897-08f64e757d22"
        width="250"
        style="border:1px solid #ddd; border-radius:8px;" />
 
