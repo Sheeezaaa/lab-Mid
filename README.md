@@ -6,6 +6,7 @@
 style="display:inline-block; padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:6px;">
 View Live Demo
 </a>
+</br>
 
 <table style="font-family: Arial; border-collapse: collapse; width: 70%;">
   <tr style="background-color: #4CAF50; color: white;">
