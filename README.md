@@ -15,8 +15,24 @@ View Live Demo
     <th style="padding: 10px; border: 1px solid #ddd;">Action</th>
   </tr>
   <!-- Files Start -->
-  <tr style="background:#f2f2f2;"><td style="padding:10px;border:1px solid #ddd;">2</td><td style="padding:10px;border:1px solid #ddd;">index2.html</td><td style="padding:10px;border:1px solid #ddd;"><a href="./index2.html">Open</a></td></tr>
-  <tr><td style="padding:10px;border:1px solid #ddd;">3</td><td style="padding:10px;border:1px solid #ddd;">orders.html</td><td style="padding:10px;border:1px solid #ddd;"><a href="./orders.html">Open</a></td></tr>
+  <tr>
+  <td style="padding:10px;border:1px solid #ddd;">1</td>
+  <td style="padding:10px;border:1px solid #ddd;">index1.html</td>
+  <td style="padding:10px;border:1px solid #ddd;"><a href="./index1.html">Open</a></td>
+</tr>
+
+<tr style="background:#f2f2f2;">
+  <td style="padding:10px;border:1px solid #ddd;">2</td>
+  <td style="padding:10px;border:1px solid #ddd;">index2.html</td>
+  <td style="padding:10px;border:1px solid #ddd;"><a href="./index2.html">Open</a></td>
+</tr>
+
+<tr>
+  <td style="padding:10px;border:1px solid #ddd;">3</td>
+  <td style="padding:10px;border:1px solid #ddd;">orders.html</td>
+  <td style="padding:10px;border:1px solid #ddd;"><a href="./orders.html">Open</a></td>
+</tr>
+
 
   <tr style="background:#f2f2f2;"><td style="padding:10px;border:1px solid #ddd;">4</td><td style="padding:10px;border:1px solid #ddd;">style.css</td><td style="padding:10px;border:1px solid #ddd;"><a href="./style.css">Open</a></td></tr>
 
