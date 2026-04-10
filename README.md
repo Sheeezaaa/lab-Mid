@@ -1,16 +1,18 @@
 # lab Mid
 <h2 style="font-family: Arial; color: #333;">📂 File List</h2>
 
+<br>
+<a href="https://sheeezaaa.github.io/lab-Mid/" target="_blank"
+style="display:inline-block; padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:6px;">
+View Live Demo
+</a>
+
 <table style="font-family: Arial; border-collapse: collapse; width: 70%;">
   <tr style="background-color: #4CAF50; color: white;">
     <th style="padding: 10px; border: 1px solid #ddd;">#</th>
     <th style="padding: 10px; border: 1px solid #ddd;">File Name</th>
     <th style="padding: 10px; border: 1px solid #ddd;">Action</th>
   </tr>
-<a href=" https://sheeezaaa.github.io/lab-Mid/" target="_blank"
-   style="display:inline-block; padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:6px; font-family:Arial;">
-  ▶️ View Live Demo
-</a>
   <!-- Files Start -->
   <tr style="background:#f2f2f2;"><td style="padding:10px;border:1px solid #ddd;">2</td><td style="padding:10px;border:1px solid #ddd;">index2.html</td><td style="padding:10px;border:1px solid #ddd;"><a href="./index2.html">Open</a></td></tr>
   <tr><td style="padding:10px;border:1px solid #ddd;">3</td><td style="padding:10px;border:1px solid #ddd;">orders.html</td><td style="padding:10px;border:1px solid #ddd;"><a href="./orders.html">Open</a></td></tr>
