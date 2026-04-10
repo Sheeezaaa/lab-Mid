@@ -7,9 +7,6 @@
     <th style="padding: 10px; border: 1px solid #ddd;">File Name</th>
     <th style="padding: 10px; border: 1px solid #ddd;">Action</th>
   </tr>
-<h2 style="font-family: Arial, sans-serif; color: #333; margin-top:30px;">
-  🚀 Live Demo
-</h2>
 <a href=" https://sheeezaaa.github.io/lab-Mid/" target="_blank"
    style="display:inline-block; padding:10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:6px; font-family:Arial;">
   ▶️ View Live Demo
